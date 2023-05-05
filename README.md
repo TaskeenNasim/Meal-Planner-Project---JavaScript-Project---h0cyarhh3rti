@@ -17,7 +17,8 @@ ii. Meals will be fetched with their Nutrients values i.e. Calories, Carbohydrat
 iii. Now tap on to "Get Recipe" button.
 iv. The Ingredients, Steps and Equipment will be displayed.
 
-<!-- link -->
+https://taskeen-meal-planner-project.netlify.app/
+<!-- link --
 
 5. Credits :-
 
