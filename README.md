@@ -22,7 +22,6 @@ iv. The Ingredients, Steps and Equipment will be displayed.
 5. Credits :-
 
 I am very much thankful to Newton School for providing me this project.
-I also thank Mr. Vivek Burman for his guidance throughout this project.
-I thank Ms. Taskeen Nazim and Ms. Harsha Anna for helping me in the accomplishment of this project.
+I also thank Mr. Rahul Hirani for his guidance throughout this project.
 
 Thank you!!!
