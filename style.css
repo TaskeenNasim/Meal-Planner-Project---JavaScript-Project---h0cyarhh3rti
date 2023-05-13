@@ -1,14 +1,14 @@
 @import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
 
 body{
-    background-color: #c5fdf6;
+    background-color: #ffffff;
     font-family: "poppins", sans-serif;
     display: flex;
     flex-direction: column;
     height: 100vh;
 }
 .navbar{
-    background-color: #ECC9EE;
+    background-color: #0C134F;
 
 }
 .nav-container{
@@ -33,11 +33,11 @@ body{
 
 a{
     text-decoration: none;
-    color: #FF6969;
+    color:#ffffff;
     cursor: pointer;
 }
 a:hover{
-    color:#0A4D68;
+    color:#6470dd;
 }
 ul{
     list-style: none;
@@ -58,16 +58,16 @@ ul li::before{
 }
 /* button */
 .btn-primary{
-    background-color: #ECC9EE;
+    background-color: #0C134F;
     border: 1px solid #9384D1;
 }
 .btn-primary:hover{
-    background-color: #088395;
+    background-color: #6470dd;
     border: 1px solid #0A4D68;
     transition: 0.3s;
 }
 .btn.btn-primary:active{
-    background-color: #41644A;
+    background-color: #6470dd;
     border: 1px solid #263A29;
 }
 
@@ -76,13 +76,14 @@ ul li::before{
 
 .btn-outline-primary {
     background-color: #ffffff;
-    border: 1px solid #ECC9EE;
-    color: #ECC9EE;
+    border: 1px solid #0C134F;
+    color: #0C134F;
+    text-decoration: white;
 }
 
 .btn-outline-primary:hover {
-    background-color: #ECC9EE;
-    border: 1px solid #ECC9EE;
+    background-color: #0C134F;
+    border: 1px solid #0C134F;
     color: var(#ffffff);
     transition: 0.3s;
 }
@@ -122,7 +123,7 @@ ul li::before{
     width: 100%;
     padding: 5px;
     background-color: darkgrey;
-    color:#FFD3B0;
+    color:#443e39;
     text-align: center;
 }
 
@@ -205,7 +206,7 @@ ul li::before{
     padding: 8px 15px;
     border: none;
     transition: 0.2s ease-in-out;
-    background-color: #ECC9EE;
+    background-color: #0C134F;
     border-radius: 5px;
     color: #f9f9f9;
 }
@@ -214,7 +215,7 @@ ul li::before{
     transition: 0.2s ease-in-out;
     font-weight: bold;
     word-spacing: 2px;
-    background-color: #0A4D68;
+    background-color: #6470dd;
 }
 
 .navbar-brand img{
@@ -248,7 +249,7 @@ ul li::before{
 
 .contact-btn{
     margin: 15px 0;
-    background-color:#ECC9EE;
+    background-color:#0C134F;
     border-radius: 5px;
     border: none;
     outline: none;
@@ -263,7 +264,7 @@ ul li::before{
     transition: 0.2s ease-in-out;
     font-weight: bold;
     word-spacing: 2px;
-    background-color: #0A4D68;
+    background-color: #6470dd;
 }
 
 .contact-info h3{
@@ -304,11 +305,12 @@ ul li::before{
 
 
 .carddesign{
-    background-color: #d2f7c5;
+    /* background-color: #d2f7c5;
+    text-decoration: #ffffff; */
 }
 
 .card-body{
-    background-color: #b5e8a2;
+    /* background-color: #9da6f1; */
 }
 .overlay{
     /* background-color: #e31111; */
